@@ -51,8 +51,18 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":10,
          "firstgid":1,
-         "source":"show.tsx"
+         "image":"..\/..\/..\/show.jpg",
+         "imageheight":379,
+         "imagewidth":320,
+         "margin":0,
+         "name":"show",
+         "spacing":0,
+         "tilecount":110,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#9b99a2"
         }, 
         {
          "firstgid":111,
