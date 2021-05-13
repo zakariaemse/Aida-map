@@ -48,7 +48,7 @@
         {
          "columns":20,
          "firstgid":1,
-         "image":"..\/Concert\/Scene.jpg",
+         "image":"Concert\/Scene.jpg",
          "imageheight":758,
          "imagewidth":640,
          "margin":0,
@@ -61,7 +61,7 @@
         {
          "columns":16,
          "firstgid":461,
-         "image":"..\/Concert\/Casino.png",
+         "image":"Concert\/Casino.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -74,7 +74,7 @@
         {
          "columns":20,
          "firstgid":1485,
-         "image":"..\/Concert\/Scene aida.png",
+         "image":"Concert\/Scene aida.png",
          "imageheight":758,
          "imagewidth":640,
          "margin":0,
@@ -87,7 +87,7 @@
         {
          "columns":6,
          "firstgid":1945,
-         "image":"..\/Concert\/Board A\u00efda.png",
+         "image":"Concert\/Board A\u00efda.png",
          "imageheight":200,
          "imagewidth":200,
          "margin":0,
@@ -100,7 +100,7 @@
         {
          "columns":4,
          "firstgid":1981,
-         "image":"..\/Concert\/Personnage.png",
+         "image":"Concert\/Personnage.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -113,7 +113,7 @@
         {
          "columns":3,
          "firstgid":1997,
-         "image":"..\/Concert\/Personnage 2.png",
+         "image":"Concert\/Personnage 2.png",
          "imageheight":100,
          "imagewidth":100,
          "margin":0,
@@ -126,7 +126,7 @@
         {
          "columns":3,
          "firstgid":2006,
-         "image":"..\/Concert\/Personnage 3.png",
+         "image":"Concert\/Personnage 3.png",
          "imageheight":100,
          "imagewidth":100,
          "margin":0,
@@ -139,7 +139,7 @@
         {
          "columns":2,
          "firstgid":2015,
-         "image":"..\/Concert\/Enceintes.png",
+         "image":"Concert\/Enceintes.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -152,7 +152,7 @@
         {
          "columns":4,
          "firstgid":2019,
-         "image":"..\/Concert\/Dancing girl.png",
+         "image":"Concert\/Dancing girl.png",
          "imageheight":35,
          "imagewidth":128,
          "margin":0,
@@ -165,7 +165,7 @@
         {
          "columns":6,
          "firstgid":2023,
-         "image":"..\/Concert\/TRY 2.gif",
+         "image":"Concert\/TRY 2.gif",
          "imageheight":70,
          "imagewidth":192,
          "margin":0,
@@ -178,7 +178,7 @@
         {
          "columns":8,
          "firstgid":2035,
-         "image":"..\/Concert\/MEUF TEST ENCORE.png",
+         "image":"Concert\/MEUF TEST ENCORE.png",
          "imageheight":70,
          "imagewidth":256,
          "margin":0,
@@ -191,7 +191,7 @@
         {
          "columns":8,
          "firstgid":2051,
-         "image":"..\/Concert\/test ptin.png",
+         "image":"Concert\/test ptin.png",
          "imageheight":70,
          "imagewidth":256,
          "margin":0,
