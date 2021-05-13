@@ -21,7 +21,7 @@
          "name":"bg",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":10,
          "x":0,
          "y":0
@@ -33,7 +33,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
@@ -65,8 +65,18 @@
          "transparentcolor":"#9b99a2"
         }, 
         {
+         "columns":10,
          "firstgid":111,
-         "source":"Sans titre.tsx"
+         "image":"..\/..\/Sans titre.png",
+         "imageheight":175,
+         "imagewidth":320,
+         "margin":0,
+         "name":"Sans titre",
+         "spacing":0,
+         "tilecount":50,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#9b99a2"
         }],
  "tilewidth":32,
  "type":"map",
