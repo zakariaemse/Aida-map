@@ -107,7 +107,7 @@
         {
          "columns":20,
          "firstgid":1,
-         "image":"..\/Concert\/Scene.jpg",
+         "image":"Scene.jpg",
          "imageheight":758,
          "imagewidth":640,
          "margin":0,
@@ -120,7 +120,7 @@
         {
          "columns":16,
          "firstgid":461,
-         "image":"..\/Concert\/Casino.png",
+         "image":"Casino.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -133,7 +133,7 @@
         {
          "columns":20,
          "firstgid":1485,
-         "image":"..\/Concert\/Scene aida.png",
+         "image":"Scene aida.png",
          "imageheight":758,
          "imagewidth":640,
          "margin":0,
@@ -146,7 +146,7 @@
         {
          "columns":6,
          "firstgid":1945,
-         "image":"..\/Concert\/Board A\u00efda.png",
+         "image":"Board A\u00efda.png",
          "imageheight":200,
          "imagewidth":200,
          "margin":0,
@@ -159,7 +159,7 @@
         {
          "columns":4,
          "firstgid":1981,
-         "image":"..\/Concert\/Personnage.png",
+         "image":"Personnage.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -172,7 +172,7 @@
         {
          "columns":3,
          "firstgid":1997,
-         "image":"..\/Concert\/Personnage 2.png",
+         "image":"Personnage 2.png",
          "imageheight":100,
          "imagewidth":100,
          "margin":0,
@@ -185,7 +185,7 @@
         {
          "columns":3,
          "firstgid":2006,
-         "image":"..\/Concert\/Personnage 3.png",
+         "image":"Personnage 3.png",
          "imageheight":100,
          "imagewidth":100,
          "margin":0,
@@ -198,7 +198,7 @@
         {
          "columns":2,
          "firstgid":2015,
-         "image":"..\/Concert\/Enceintes.png",
+         "image":"Enceintes.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -211,7 +211,7 @@
         {
          "columns":4,
          "firstgid":2019,
-         "image":"..\/Concert\/Dancing girl.png",
+         "image":"Dancing girl.png",
          "imageheight":35,
          "imagewidth":128,
          "margin":0,
@@ -224,7 +224,7 @@
         {
          "columns":6,
          "firstgid":2023,
-         "image":"..\/Concert\/TRY 2.gif",
+         "image":"TRY 2.gif",
          "imageheight":70,
          "imagewidth":192,
          "margin":0,
@@ -237,7 +237,7 @@
         {
          "columns":8,
          "firstgid":2035,
-         "image":"..\/Concert\/MEUF TEST ENCORE.png",
+         "image":"MEUF TEST ENCORE.png",
          "imageheight":70,
          "imagewidth":256,
          "margin":0,
@@ -250,7 +250,7 @@
         {
          "columns":8,
          "firstgid":2051,
-         "image":"..\/Concert\/test ptin.png",
+         "image":"test ptin.png",
          "imageheight":70,
          "imagewidth":256,
          "margin":0,
@@ -312,7 +312,7 @@
         {
          "columns":8,
          "firstgid":2067,
-         "image":"..\/Concert\/MEC QUI DANSE final.png",
+         "image":"MEC QUI DANSE final.png",
          "imageheight":159,
          "imagewidth":287,
          "margin":0,
@@ -390,7 +390,7 @@
         {
          "columns":7,
          "firstgid":2099,
-         "image":"..\/Concert\/MEUF QUI DANSE final.png",
+         "image":"MEUF QUI DANSE final.png",
          "imageheight":70,
          "imagewidth":240,
          "margin":0,
@@ -468,7 +468,7 @@
         {
          "columns":7,
          "firstgid":2113,
-         "image":"..\/Concert\/Stairs.png",
+         "image":"Stairs.png",
          "imageheight":70,
          "imagewidth":240,
          "margin":0,
@@ -494,7 +494,7 @@
         {
          "columns":2,
          "firstgid":2257,
-         "image":"..\/Concert\/Table.png",
+         "image":"Table.png",
          "imageheight":180,
          "imagewidth":70,
          "margin":0,
@@ -507,7 +507,7 @@
         {
          "columns":4,
          "firstgid":2267,
-         "image":"..\/Concert\/weddingguy02.png",
+         "image":"weddingguy02.png",
          "imageheight":192,
          "imagewidth":128,
          "margin":0,
@@ -520,7 +520,7 @@
         {
          "columns":1,
          "firstgid":2291,
-         "image":"..\/Concert\/Serveur.png",
+         "image":"Serveur.png",
          "imageheight":91,
          "imagewidth":50,
          "margin":0,
@@ -533,7 +533,7 @@
         {
          "columns":24,
          "firstgid":2293,
-         "image":"..\/Concert\/Exit signs.png",
+         "image":"Exit signs.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -546,7 +546,7 @@
         {
          "columns":4,
          "firstgid":2869,
-         "image":"..\/Concert\/Exit test.png",
+         "image":"Exit test.png",
          "imageheight":64,
          "imagewidth":152,
          "margin":0,
@@ -608,7 +608,7 @@
         {
          "columns":4,
          "firstgid":2877,
-         "image":"..\/Concert\/Exit right.png",
+         "image":"Exit right.png",
          "imageheight":64,
          "imagewidth":152,
          "margin":0,
@@ -670,7 +670,7 @@
         {
          "columns":9,
          "firstgid":2885,
-         "image":"..\/Concert\/Exit door test.png",
+         "image":"Exit door test.png",
          "imageheight":256,
          "imagewidth":288,
          "margin":0,
@@ -683,7 +683,7 @@
         {
          "columns":4,
          "firstgid":2957,
-         "image":"..\/Concert\/Exit door left.png",
+         "image":"Exit door left.png",
          "imageheight":64,
          "imagewidth":152,
          "margin":0,
@@ -696,7 +696,7 @@
         {
          "columns":4,
          "firstgid":2965,
-         "image":"..\/Concert\/Exit door right.png",
+         "image":"Exit door right.png",
          "imageheight":64,
          "imagewidth":152,
          "margin":0,
@@ -709,7 +709,7 @@
         {
          "columns":5,
          "firstgid":2973,
-         "image":"..\/Concert\/NPC\/Group of people.png",
+         "image":"NPC\/Group of people.png",
          "imageheight":154,
          "imagewidth":163,
          "margin":0,
@@ -722,7 +722,7 @@
         {
          "columns":1,
          "firstgid":2993,
-         "image":"..\/Concert\/NPC\/NPC 1.png",
+         "image":"NPC\/NPC 1.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -735,7 +735,7 @@
         {
          "columns":1,
          "firstgid":2995,
-         "image":"..\/Concert\/NPC\/NPC 2.png",
+         "image":"NPC\/NPC 2.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -748,7 +748,7 @@
         {
          "columns":1,
          "firstgid":2997,
-         "image":"..\/Concert\/NPC\/NPC 3.png",
+         "image":"NPC\/NPC 3.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -761,7 +761,7 @@
         {
          "columns":1,
          "firstgid":2999,
-         "image":"..\/Concert\/NPC\/NPC 4.png",
+         "image":"NPC\/NPC 4.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -774,7 +774,7 @@
         {
          "columns":1,
          "firstgid":3001,
-         "image":"..\/Concert\/NPC\/NPC 5.png",
+         "image":"NPC\/NPC 5.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -787,7 +787,7 @@
         {
          "columns":1,
          "firstgid":3003,
-         "image":"..\/Concert\/NPC\/NPC 6.png",
+         "image":"NPC\/NPC 6.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -800,7 +800,7 @@
         {
          "columns":1,
          "firstgid":3005,
-         "image":"..\/Concert\/NPC\/NPC 7.png",
+         "image":"NPC\/NPC 7.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -813,7 +813,7 @@
         {
          "columns":1,
          "firstgid":3007,
-         "image":"..\/Concert\/NPC\/NPC 8.png",
+         "image":"NPC\/NPC 8.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -826,7 +826,7 @@
         {
          "columns":1,
          "firstgid":3009,
-         "image":"..\/Concert\/NPC\/NPC 9.png",
+         "image":"NPC\/NPC 9.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -839,7 +839,7 @@
         {
          "columns":1,
          "firstgid":3011,
-         "image":"..\/Concert\/NPC\/NPC 10.png",
+         "image":"NPC\/NPC 10.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -852,7 +852,7 @@
         {
          "columns":1,
          "firstgid":3013,
-         "image":"..\/Concert\/NPC\/NPC 11.png",
+         "image":"NPC\/NPC 11.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -865,7 +865,7 @@
         {
          "columns":1,
          "firstgid":3015,
-         "image":"..\/Concert\/NPC\/NPC 12.png",
+         "image":"NPC\/NPC 12.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -878,7 +878,7 @@
         {
          "columns":1,
          "firstgid":3017,
-         "image":"..\/Concert\/NPC\/NPC 13.png",
+         "image":"NPC\/NPC 13.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -891,7 +891,7 @@
         {
          "columns":1,
          "firstgid":3019,
-         "image":"..\/Concert\/NPC\/NPC 14.png",
+         "image":"NPC\/NPC 14.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -904,7 +904,7 @@
         {
          "columns":1,
          "firstgid":3021,
-         "image":"..\/Concert\/NPC\/NPC 15.png",
+         "image":"NPC\/NPC 15.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
