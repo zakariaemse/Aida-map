@@ -646,15 +646,15 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":71.3333333333335,
+                 "height":81.33,
                  "id":11,
                  "name":"popup",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":54.6666666666667,
-                 "x":1224.66666666667,
-                 "y":1738.66666666667
+                 "width":80.67,
+                 "x":1205.33333333333,
+                 "y":1745.33333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
