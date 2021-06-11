@@ -9,7 +9,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -55,7 +55,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -83,7 +83,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -111,7 +111,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -139,7 +139,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -167,7 +167,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -195,7 +195,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -223,7 +223,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -251,7 +251,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -279,7 +279,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -307,7 +307,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -335,7 +335,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -363,7 +363,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -391,7 +391,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -419,7 +419,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -447,7 +447,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -475,7 +475,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -503,7 +503,7 @@
                  "value":"Cliquez sur ESPACE pour ouvrir le chat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -515,7 +515,7 @@
          "name":"Sol",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -527,7 +527,7 @@
          "name":"murs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -539,7 +539,7 @@
          "name":"porte top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -551,7 +551,7 @@
          "name":"Barrieres",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -563,7 +563,7 @@
          "name":"Personnages",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -575,7 +575,7 @@
          "name":"Rideau",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -587,7 +587,7 @@
          "name":"objet_down",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -599,7 +599,7 @@
          "name":"Decor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -611,7 +611,7 @@
          "name":"Meubles",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -623,7 +623,7 @@
          "name":"Objet_top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -635,7 +635,7 @@
          "name":"Objet_Top(2)",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":74,
          "x":0,
          "y":0
@@ -647,7 +647,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -657,19 +657,19 @@
          "name":"popup",
          "objects":[
                 {
-                 "height":130.666666666667,
+                 "height":53.3333333333337,
                  "id":10,
-                 "name":"",
+                 "name":"popup",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":102.666666666667,
-                 "x":1194.66666666667,
-                 "y":1738.66666666667
+                 "width":49.3333333333337,
+                 "x":1220.66666666667,
+                 "y":1712.66666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
