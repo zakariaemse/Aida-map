@@ -4,6 +4,7 @@
 // The "WA" global object is available from anywhere.
 
 console.log('Script started successfully');
+<<<<<<< HEAD
 
 
 let helloWorldPopup: any = WA.onEnterZone('zone_sport1', () => {
@@ -21,3 +22,6 @@ WA.onLeaveZone('zone_sport1', () => {
   helloWorldPopup.close();
 });
 WA.sendChatMessage("Bienvenue sur WorkAdventures, n'hésitez pas à soliciter le staff pour toutes vos questions. Nous esperons que vous allez passer un super moment en notre compagnie.\n Vous pouvez fermer cette fenêtre.", "L'équipe HTH");
+=======
+WA.openCoWebSite('https://workadventu.re');
+>>>>>>> parent of a342fb4 (up)
