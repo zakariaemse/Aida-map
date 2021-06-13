@@ -65346,13 +65346,13 @@
          "margin":10,
          "name":"texte",
          "spacing":0,
-         "tilecount":26,
+         "tilecount":22,
          "tileheight":32,
          "tilewidth":32
         }, 
         {
          "columns":5,
-         "firstgid":23949,
+         "firstgid":23945,
          "image":"tuileset\/Autres\/text2.png",
          "imageheight":53,
          "imagewidth":198,
@@ -65365,7 +65365,7 @@
         }, 
         {
          "columns":7,
-         "firstgid":23954,
+         "firstgid":23950,
          "image":"tuileset\/Autres\/text3.png",
          "imageheight":45,
          "imagewidth":234,
