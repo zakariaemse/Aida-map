@@ -21,3 +21,4 @@ WA.onLeaveZone('zone_sport1', () => {
   helloWorldPopup.close();
 });
 WA.sendChatMessage("Bienvenue sur WorkAdventures, n'hésitez pas à soliciter le staff pour toutes vos questions. Nous esperons que vous allez passer un super moment en notre compagnie.\n Vous pouvez fermer cette fenêtre.", "L'équipe HTH");
+
