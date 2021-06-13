@@ -1,2 +1,2 @@
-(()=>{"use strict";console.log("Script started successfully"),WA.openCoWebSite("https://workadventu.re")})();
+(()=>{"use strict";console.log("Script started successfully");let e=WA.onEnterZone("zone_sport1",(()=>{WA.openPopup("popup","Bienvenu dans la salle de sport!",[{label:"Got it!",className:"primary",callback:e=>{e.close()}}])}));WA.onLeaveZone("zone_sport1",(()=>{e.close()})),WA.sendChatMessage("Bienvenue sur WorkAdventures, n'hésitez pas à soliciter le staff pour toutes vos questions. Nous esperons que vous allez passer un super moment en notre compagnie.\n Vous pouvez fermer cette fenêtre.","L'équipe HTH")})();
 //# sourceMappingURL=script.js.map
