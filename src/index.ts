@@ -3,6 +3,7 @@
 
 console.log('Script started successfully');
 WA.openCoWebSite('https://workadventu.re');
+<<<<<<< HEAD
 WA.sendChatMessage("Bienvenue sur WorkAdventures, n'hésitez pas à soliciter le staff pour toutes vos questions. Nous esperons que vous allez passer un super moment en notre compagnie.\n Vous pouvez fermer cette fenêtre.", "L'équipe HTH");
 
 
@@ -215,3 +216,5 @@ let helloWorldPopup2: any = WA.onEnterZone('sport1', () => {
   WA.onLeaveZone('sport1', () => {
     helloWorldPopup.close();
   });
+=======
+>>>>>>> parent of a342fb4 (up)
